@@ -1,2 +1,2 @@
-# bootcamp
+# Moje věci z bootcampu
 bootcamp
